@@ -1,0 +1,1 @@
+Simple example of Multilayer Perceptron with FashionMNIST dataset
